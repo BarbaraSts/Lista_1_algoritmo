@@ -2,10 +2,6 @@ package aula2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class Exercicio6Java {
     
     public static void main(String[] args) {
@@ -36,7 +32,7 @@ f) o perímetro do retângulo que tem lados A e B.*/
         System.out.println("Área do círculo: " + círculo); 
         
         /* c) a área do trapézio que tem A e B por bases e C por altura. */
-        
+       
         double trapézio = ((a + b) * c) / 2;
         System.out.println("Área do trapézio: " + trapézio);
         
@@ -54,6 +50,5 @@ f) o perímetro do retângulo que tem lados A e B.*/
         
         double retânguloperímetro = (a + a) + (b + b);
         System.out.println("Perímetro do retângulo: " + retânguloperímetro);
-    }
-    
+    }    
 }
