@@ -2,10 +2,6 @@ package aula2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class Exercicio8Java {
     
     public static void main(String[] args) {
@@ -25,6 +21,5 @@ public class Exercicio8Java {
         
         double média = (va1 + va2 + va3 + va4) / 4;
         System.out.println("A média aritmética é: " + média);
-    }
-    
+    }    
 }
