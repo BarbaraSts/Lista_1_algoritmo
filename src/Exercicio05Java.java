@@ -2,10 +2,6 @@ package aula2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class Exercicio5Java { 
     
     public static void main(String[] args) {
@@ -17,8 +13,6 @@ public class Exercicio5Java {
         
         l = l * l;
         
-        System.out.println("A área do quadrado é " + l);
-        
-    }
-    
+        System.out.println("A área do quadrado é " + l);        
+    }    
 }
