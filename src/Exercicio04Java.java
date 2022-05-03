@@ -2,10 +2,6 @@ package aula2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class Exercicio4Java {
     
     public static void main(String[] args){
@@ -22,7 +18,6 @@ de –9)*/
         a = a + 1;
         b = b + 1;
                         
-        System.out.println("Os números consecutivoes são " + a + " and " + b);
-    
+        System.out.println("Os números consecutivoes são " + a + " and " + b);    
 } 
 }
