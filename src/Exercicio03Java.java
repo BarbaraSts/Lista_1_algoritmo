@@ -2,10 +2,6 @@ package aula2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class Exercicio3Java {
     
     public static void main(String[] args) {
@@ -20,10 +16,6 @@ de um número A é representado por A^2 = A * A.*/
         
         double c = (a * a) + (b * b);
                 
-        System.out.println("Resultado: " + c);
-        
-        
-        
+        System.out.println("Resultado: " + c);     
     }
-    
 }
