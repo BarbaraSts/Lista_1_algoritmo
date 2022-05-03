@@ -1,11 +1,7 @@
 package aula2;
 
 import java.util.Scanner;
-        
-/**
- *
- * @author Barbara
- */
+
 public class Exercicio9Java {
     
     public static void main(String[] args) {
@@ -24,8 +20,6 @@ salário do funcionário. */
         
         double salário = n2 * n3;   
         System.out.println("O número de cadrastro é: " + n1 + 
-                "\nO salário do funcionário é de R$: " + salário);
-        
+                "\nO salário do funcionário é de R$: " + salário); 
     }
-    
 }
