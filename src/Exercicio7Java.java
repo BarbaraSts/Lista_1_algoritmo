@@ -2,10 +2,6 @@ package aula2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Barbara
- */
 public class Exercicio7Java {
     
     public static void main(String[] args) {
@@ -21,10 +17,5 @@ função matemática Math.sqrt(). Por exemplo, a raiz de 121 ficaria Math.sqrt(1
         
         double resultado = (a * a) + (b * b);
         System.out.println("A hipotenusa do triângulo é: " + Math.sqrt(resultado));
-                
-        
-        
-
-    }
-    
+    }   
 }
