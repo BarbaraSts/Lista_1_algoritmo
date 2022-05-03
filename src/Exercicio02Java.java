@@ -1,11 +1,7 @@
 package aula2;
 
 import java.util.Scanner;
-        
-/**
- *
- * @author Barbara
- */
+
 public class Exercicio2Java {
     
     public static void main(String[] args) {
